@@ -25,13 +25,13 @@ header{
     text-align: center;
 }
 header > h1{
-    padding-top: 50px;
+    padding-top: 20px;
     font-variant: small-caps; /*deixa as primeiras letras maiores*/
     font-family: var(--font2);
     font-size: 7vw;/*viewport widht (% da largura da tela)*/
 }
 header > p{
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 header a, footer a{
